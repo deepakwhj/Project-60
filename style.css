@@ -1,0 +1,115 @@
+body{
+  background: linear-gradient( #ff0000 0%, #FFFF00 100% );
+    background-repeat :no-repeat;
+  text-align:center;
+}
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+}
+#sectionabout{
+  padding:20px;
+  font-size:18px;
+  text-align:center;
+}
+#ironman{
+  border-radius:20%;
+    margin-top: 150px;
+    float: center;
+    margin-right: -710;
+    height: 400px;
+    width: 600px
+    
+}
+.menu{
+    list-style: none;
+    font-family:'Cinzel', cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+
+
+}
+#MFI{
+    font-family: 'Courgette', cursive;
+}
+
+
+
+
+
+.link{
+    float: left;
+    color: fuchsia;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    font-size:20px;
+    font-family: fantasy;
+}
+
+.links:hover{
+    background-color: aqua;
+    
+    
+}
+h3{
+    padding-left: 50px;
+    padding-right: 50px
+}
+p{
+    font-size: 20px
+}
+#irogif{
+    height: 300px;
+    width: 400px;
+}
+#irogi{
+    height: 300px;
+    width: 400px;
+}
+#irog{
+    height: 300px;
+    width: 400px;
+}
+#iro{
+    height: 300px;
+    width: 400px;
+}
+#iroimg{
+    height: 500px;
+    width: 300px;
+}
+#capimg{
+    height: 500px;
+    width: 300px;
+}
+#spyimg{
+    height: 500px;
+    width: 370px;
+}
+#thorimg{
+    height: 500px;
+    width: 370px;
+}
+#iroimg:hover{
+    transform: scale(0.9);
+}
+#capimg:hover{
+    transform: scale(0.9);
+}
+#spyimg:hover{
+    transform: scale(0.9);
+}
+#thorimg:hover{
+    transform: scale(0.9);
+}
+
+
+
+
+
+
